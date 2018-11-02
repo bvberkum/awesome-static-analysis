@@ -350,7 +350,8 @@ Also check out the sister project, [awesome-dynamic-analysis](https://github.com
 ## Shell
 
 * [i-Code CNES for Shell](https://github.com/lequal/i-CodeCNES) - An open source static code analysis tool for Shell and Fortran (77 and 90).
-* [shellcheck](https://github.com/koalaman/shellcheck) - ShellCheck, a static analysis tool that gives warnings and suggestions for bash/sh shell scripts
+* [shellcheck](https://github.com/koalaman/shellcheck) - ShellCheck, a static analysis tool that gives warnings and suggestions for bash/sh shell scripts.
+* [oilshell](https://github.com/oilshell/oil) - Oil is a new Unix shell in Python for Bash (and the derived format Oil), that can list prerequisite executables.
 
 ## Solidity
 
